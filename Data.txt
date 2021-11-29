@@ -1,0 +1,22 @@
+John Doe;hans@yahoo.dk
+John Doe;3219412
+John Doe;hans
+John Doe;mand
+John Doe;56
+John Doe;nej
+John Doe;Ingen
+John Doe;11/04/2021 9:39 PM;
+John Doe;1
+John Doe;København
+John Doe;Aarhus
+John Doe;20/12/2020
+;Første Klasse
+John Doe;10
+John Doe;100
+John Doe;1001
+John Doe;Hans@yahoo.be
+John Doe;41205291
+John Doe;Hans
+John Doe;Kok
+John Doe;13:00
+John Doe;00:30
