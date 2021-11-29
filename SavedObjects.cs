@@ -35,7 +35,7 @@ namespace DeepSeaCruisingOOP
             }
         }
 
-        public void BilletOpret()
+        public static void BilletOpret()
         {
             //Samme som forhenværende metode, men med array elementer fra data filen som har med gemt billet information at gøre
             string[] Info = File.ReadAllLines(@"C:\Users\" + Environment.UserName + @"\source\repos\DeepSeaCruising\Data.txt");
